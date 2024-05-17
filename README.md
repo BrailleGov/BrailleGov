@@ -1,3 +1,3 @@
-Go to this sexy site:
+## Go to this sexy site:
 
-# https://guns.lol
+https://guns.lol
