@@ -1,4 +1,5 @@
-## Checkout guns.lol, in my unbias opinion, it is the best biolink service.
+## Checkout guns.lol!
+## In my unbias opinion, it is the best biolink service.
 
 https://guns.lol
 
